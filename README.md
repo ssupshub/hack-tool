@@ -19,7 +19,7 @@ To embark on this journey:
 
 1. **Clone the Repository**: Bring this tale to your local machine!
    ```bash
-   https://github.com/ssupshub/hack-tool.git
+   git clone https://github.com/ssupshub/hack-tool.git
    ```
 
 2. **Explore the Folders**: Each folder holds a piece of the story—dive in and discover what awaits!
